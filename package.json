@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "private": "true",
+  "dependencies": {},
+  "scripts": {
+    "serve": "bundle exec jekyll serve",
+    "serve with drafts": "bundle exec jekyll serve --watch --drafts"
+  }
+}
