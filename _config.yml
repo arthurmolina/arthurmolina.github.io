@@ -74,7 +74,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/buildinruby"
-
+head:
+  custom: "head"
 footer:
   links:
     - label: "Twitter"
